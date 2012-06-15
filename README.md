@@ -1,4 +1,4 @@
-# bujdriver
+# rujhour
 
 A website written in noir. 
 
@@ -11,7 +11,7 @@ lein run
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Kjetil Valstadsve
 
 Distributed under the Eclipse Public License, the same as Clojure.
 
